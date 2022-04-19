@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  radio:
+    container_name: radio
+    image: ghcr.io/iamtakagi/radio.discord:latest
+    env_file: 
+      - .env
+    restart: always

@@ -1,0 +1,4 @@
+# radio.discord
+
+## LICENSE
+MIT.
