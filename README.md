@@ -1,4 +1,4 @@
-# radio.discord
+# discord-radio
 
 ## LICENSE
 MIT.
